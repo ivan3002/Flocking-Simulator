@@ -1,8 +1,6 @@
-README.txt
 
 Flocking Simulation 
 
-Exam No: Y3921678
 ===========================
 
 This project is a flocking simulation program written in Java, version 11. The program simulates the behavior of agents (DynamicTurtles) that exhibit flocking behavior, avoiding obstacles and predators within a graphical user interface (GUI).
