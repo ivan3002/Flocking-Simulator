@@ -3,7 +3,7 @@ Flocking Simulation
 
 ===========================
 
-This project is a flocking simulation program written in Java, version 11. The program simulates the behavior of agents (DynamicTurtles) that exhibit flocking behavior, avoiding obstacles and predators within a graphical user interface (GUI).
+This project is a flocking simulation program written in Java, version 11 for a programming project in my 2nd Year of University. The program simulates the behavior of agents (DynamicTurtles) that exhibit flocking behavior, avoiding obstacles and predators within a graphical user interface (GUI).
 
 Source Files
 ============
